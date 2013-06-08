@@ -1,0 +1,22 @@
+#INSTALL#
+
+instale o [RVM|https://rvm.io/support/faq/]
+rvm install jruby
+rvm use jruby@justjava --create
+git clone do projeto
+bundle install
+warble
+
+
+#LINKS#
+https://rvm.io/support/faq/
+http://www.sinatrarb.com/
+http://www.gradleware.com/training
+http://rubylearning.com/blog/2011/09/03/how-do-i-run-a-sinatra-app-using-jruby/
+https://github.com/jruby/warbler
+http://go-tour-br.appspot.com/#1
+http://www.python.org.br/wiki
+http://vertis.io/2010/02/21/sinatra-on-java.html
+http://ceylon-lang.org
+http://clojure.org/
+
